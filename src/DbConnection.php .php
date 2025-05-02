@@ -1,5 +1,5 @@
 <?php
-namespace Src;
+// namespace Src;
 
 class Database {
     private $host = 'localhost';
