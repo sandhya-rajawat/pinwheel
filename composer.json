@@ -2,7 +2,12 @@
   "autoload": {
       "files": [
           "function.php"
-      ]
+      ],
+
+
+       "psr-4": {
+            "Src\\": "src/"
+        }
   }
   
 }

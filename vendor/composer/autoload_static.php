@@ -21,6 +21,7 @@ class ComposerStaticInitf4f82ea75fbb21325181fcef3e58e1ef
             'Symfony\\Polyfill\\Mbstring\\' => 26,
             'Symfony\\Contracts\\Translation\\' => 30,
             'Symfony\\Component\\Translation\\' => 30,
+            'Src\\' => 4,
         ),
         'P' => 
         array (
@@ -49,6 +50,10 @@ class ComposerStaticInitf4f82ea75fbb21325181fcef3e58e1ef
         'Symfony\\Component\\Translation\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/translation',
+        ),
+        'Src\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
         'Psr\\Clock\\' => 
         array (

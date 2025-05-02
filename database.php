@@ -22,7 +22,6 @@ function db_close($con)
         mysqli_close($con);
     }
 }
-
 // $con = db_connect();
 // echo "Connected successfully!";
 
